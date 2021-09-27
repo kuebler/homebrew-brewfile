@@ -32,6 +32,7 @@ brew "tektoncd-cli"
 brew "httpie"
 brew "asciidoctorj"
 brew "editorconfig"
+brew "gh"
 
 # desktop apps
 cask "intellij-idea"
