@@ -33,6 +33,8 @@ brew "httpie"
 brew "asciidoctorj"
 brew "editorconfig"
 brew "gh"
+brew "plantuml"
+brew "terraform"
 
 # desktop apps
 cask "intellij-idea"
