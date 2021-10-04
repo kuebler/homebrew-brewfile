@@ -35,6 +35,7 @@ brew "editorconfig"
 brew "gh"
 brew "plantuml"
 brew "terraform"
+brew "cmake"
 
 # desktop apps
 cask "intellij-idea"
