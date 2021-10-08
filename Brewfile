@@ -36,6 +36,8 @@ brew "gh"
 brew "plantuml"
 brew "terraform"
 brew "cmake"
+brew "hyperkit"
+brew "minikube"
 
 # desktop apps
 cask "intellij-idea"
